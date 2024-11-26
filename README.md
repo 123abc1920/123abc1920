@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **123abc1920/123abc1920** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
