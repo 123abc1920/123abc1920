@@ -20,7 +20,7 @@
 *Игра на Unity для Android. Для сохранения настроек используются JSON и PlayerPrefs.*
 
 <div align="center" style="align-items: center;">
-    <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/worldOfCells/trailer.gif"/>
+    <img style="width: 40%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/worldOfCells/trailer.gif"/>
 </div>
 
 ***
@@ -31,7 +31,7 @@
 *Программа для просмотра и редактирования 3D объектов. Моя часть заключалась в отрисовке объекта (растеризация треугольников), наложении освещения и текстур. Также в изображение ламп-источников и сетки.*
 
 <div align="center" style="align-items: center;">
-    <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/3D/3video.gif"/>
+    <img style="width: 40%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/3D/3video.gif"/>
 </div>
 
 <!--
