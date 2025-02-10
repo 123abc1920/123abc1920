@@ -4,7 +4,7 @@
 
 *Программа для сохранения заметок, списков. Для хранения информации используются JSON.*
 
-<div style="float: left;">
+<div align="center" style="float: left;">
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/1.png"/>
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/3.png"/>
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/4.png"/>
@@ -19,7 +19,7 @@
 
 *Игра на Unity для Android. Для сохранения настроек используются JSON и PlayerPrefs.*
 
-<div style="text-align: center;">
+<div align="center" style="align-items: center;">
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/worldOfCells/trailer.gif"/>
 </div>
 
@@ -30,7 +30,7 @@
 
 *Программа для просмотра и редактирования 3D объектов. Моя часть заключалась в отрисовке объекта (растеризация треугольников), наложении освещения и текстур. Также в изображение ламп-источников и сетки.*
 
-<div style="text-align: center;">
+<div align="center" style="align-items: center;">
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/3D/3video.gif"/>
 </div>
 
