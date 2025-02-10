@@ -1,11 +1,37 @@
 1. Розовые заметки
 
+```Java, Android Studio, JSON```
+
+*Программа для сохранения заметок, списков. Для хранения информации используются JSON.*
+
 <div style="float: left;">
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/1.png"/>
-    <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/2.png"/>
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/3.png"/>
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/4.png"/>
     <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/5.png"/>
+</div>
+
+***
+
+2. Мир Клеток
+
+```C#, Unity, Android, JSON```
+
+*Игра на Unity для Android. Для сохранения настроек используются JSON и PlayerPrefs.*
+
+<div style="text-align: center;">
+    <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/worldOfCells/trailer.gif"/>
+</div>
+
+***
+3. Программа для просмотра и редактирования 3Д объектов, __работа в группе__
+
+```Java, JavaFx, Obj```
+
+*Программа для просмотра и редактирования 3D объектов. Моя часть заключалась в отрисовке объекта (растеризация треугольников), наложении освещения и текстур. Также в изображение ламп-источников и сетки.*
+
+<div style="text-align: center;">
+    <img style="width: 20%;" src="https://github.com/123abc1920/123abc1920/blob/main/res/3D/3video.gif"/>
 </div>
 
 <!--
