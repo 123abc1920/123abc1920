@@ -1,11 +1,11 @@
 1. Розовые заметки
 
 <div>
-    <img src="https://github.com/123abc1920/123abc1920/tree/main/res/pinkNotes/1.png"/>
-    <img src="https://github.com/123abc1920/123abc1920/tree/main/res/pinkNotes/2.png"/>
-    <img src="https://github.com/123abc1920/123abc1920/tree/main/res/pinkNotes/3.png"/>
-    <img src="https://github.com/123abc1920/123abc1920/tree/main/res/pinkNotes/4.png"/>
-    <img src="https://github.com/123abc1920/123abc1920/tree/main/res/pinkNotes/5.png"/>
+    <img src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/1.png"/>
+    <img src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/2.png"/>
+    <img src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/3.png"/>
+    <img src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/4.png"/>
+    <img src="https://github.com/123abc1920/123abc1920/blob/main/res/pinkNotes/5.png"/>
 </div>
 
 <!--
