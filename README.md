@@ -1,4 +1,3 @@
-123abc1920
 ![Header](https://frabjous-lebkuchen-df3197.netlify.app/.netlify/functions/svgimg)
 
 <!--
